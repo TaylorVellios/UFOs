@@ -79,7 +79,7 @@ function updateFilters(filt) {
   
   // 2. Attach an event to listen for changes to each filter
   // no, if the challenge deviates from the module content this much then there is no reason that my solution can't deviate from the prompts
-
+  // did it in html, each filter box hits the filter function to supply it with the appropriate input
   
   // Build the table when the page loads
   buildTable(tableData);
@@ -89,4 +89,5 @@ function reset(){
     document.getElementById(k).value = ""
     filters[k] = ''
   });
+  buildTable(tableData);
 };
