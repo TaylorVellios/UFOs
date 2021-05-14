@@ -9,7 +9,7 @@ To use JavaScript in conjunction with html to create a web application that can 
 
 # Results
 ## In Action:
-![ufo2](https://user-images.githubusercontent.com/14188580/118279272-913e4680-b490-11eb-9e32-72a377d096ae.gif)
+![ufo2](https://user-images.githubusercontent.com/14188580/118280833-2ee64580-b492-11eb-84d0-b661d2cbc407.gif)
 </br>
 Each input field takes a user input and updates the table in html upon exiting focus on the field, either by pressing Tab, Enter, or clicking out of the field.</br>
 The table update works in reverse for each field as well, when deleting the contents of an input field, it is removing the filter applied. </br>
