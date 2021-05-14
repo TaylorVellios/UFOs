@@ -19,8 +19,8 @@ I have also added a button at the bottom of the filter section to remove all fil
 This is a simple representation of a JavaScript web-app that will allow myself and others to share data in a very digestible format.</br>
 
 ### Drawbacks
-One drawback with this code in its current-state is its lack of typecase-flexibility.</br>
-Luckily, for this dataset, all columns with filters are already forced to lowercase, making the user experience a best-case scenario even without flexibility, but this is not going to be a catch-all javascript solution when filtering html tables.</br>
+One drawback with this code in its current state is its lack of typecase-flexibility.</br>
+Luckily, for this dataset, all columns with filters have already been forced to lowercase, making the user experience a best-case scenario even without flexibility, but this is not going to be a catch-all javascript solution when filtering tables in html.</br>
 
 ### Further Development
 Along with updating the flexibility of user input strings, the date filter leaves a lot to be desired.</br>
