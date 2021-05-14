@@ -8,4 +8,10 @@ To use JavaScript in conjunction with html to create a web application that can 
 
 
 # Results
-![ufo2](https://user-images.githubusercontent.com/14188580/118277898-ef6a2a00-b48e-11eb-9a6a-5015b5c8151e.gif)
+In Action:
+
+![ufo2](https://user-images.githubusercontent.com/14188580/118278965-33116380-b490-11eb-9b89-88fdceb8c4a1.gif)
+</br>
+Each input field takes a user input and updates the table in html upon exiting focus on the field, either by pressing Tab, Enter, or clicking out of the field.</br>
+The table update works in reverse for each field as well, when deleting the contents of an input field, it is removing the filter applied. </br>
+I have also added a button at the bottom of the filter section to remove all filters at once for easier use.
